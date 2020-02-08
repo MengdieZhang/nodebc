@@ -1,0 +1,11 @@
+let userCounter = 100;
+userCounter +=5;
+console.log('%s',"userCounter",userCounter);
+userCounter +=3;
+console.log('%s',"userCounter",userCounter);
+userCounter *=2;
+console.log('%s',"userCounter",userCounter);
+let menCounter = userCounter/2;
+let womenCounter = userCounter/2;
+var temp = `userCounter: ${userCounter}  menCounter: ${menCounter}  userCounter: ${womenCounter} `;
+console.log(temp);

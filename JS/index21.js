@@ -1,0 +1,10 @@
+var age ="34";
+var phone = "000-000-0000";
+var streetName ="27th AVE";
+var streetNumber = "2790";
+var template1 = `I'm ${age} years old`;
+var template2 = `My phone number is : ${phone}`;
+var template3 = `I live on ${streetNumber} ${streetName}`;
+console.log(template1);
+console.log(template2);
+console.log(template3);

@@ -1,0 +1,12 @@
+var cityName = "Vancouver";
+var coastalCity = true;
+var population = 2222222;
+var affliateTo = "BC";
+var remarks = null;
+var mayor = "Mandy";
+console.log('cityName', cityName, typeof(cityName));
+console.log('coastalCity', coastalCity, typeof(coastalCity));
+console.log('population', population, typeof(population));
+console.log("affliateTo ", affliateTo, typeof(affliateTo));
+console.log('remarks', remarks, typeof(remarks));
+console.log('mayor', mayor, typeof(mayor));
